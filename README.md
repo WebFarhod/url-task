@@ -19,3 +19,9 @@ npm install
 # Dastur ishga tushirish
 npm run dev
 ```
+## 📖 API Docs
+
+Swagger OpenAPI hujjati:
+👉 [http://localhost:3000/docs](http://localhost:3000/docs)
+
+---
