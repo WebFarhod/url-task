@@ -25,3 +25,5 @@ Swagger OpenAPI hujjati:
 👉 [http://localhost:3000/docs](http://localhost:3000/docs)
 
 ---
+
+## Baza uchun mongoDb da local MONGO_DB=mongodb://localhost:27017/urltask yaratish kerak
